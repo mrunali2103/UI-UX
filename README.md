@@ -1,5 +1,4 @@
-# UI-UX
 
 
+https://github.com/user-attachments/assets/de1fed2c-e9b9-40fd-a33a-00fe691c761f
 
-[![Watch the video]((https://github.com/mrunali2103/UI-UX/blob/main/ui.mp4))](https://github.com/mrunali2103/UI-UX/raw/refs/heads/main/ui.mp4)
